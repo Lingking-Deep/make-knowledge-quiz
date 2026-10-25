@@ -1,0 +1,29 @@
+# 编译输出与可执行文件
+*.exe
+*.dll
+
+# 浏览器缓存与用户数据（非项目文件）
+.edgeprofile/
+.edgeprofile2/
+
+# 语言运行时与虚拟环境
+.venv/
+__pycache__/
+*.pyc
+
+# 项目无关的临时/测试文件
+*.txt
+*.js
+*.html
+*.tsv
+*.ps1
+bin/
+docx_work/
+icons/
+langgraph-stage2/
+小林的面试笔记_backup/
+
+# 保留项目核心文件
+!LICENSE
+!README.md
+!skills/
